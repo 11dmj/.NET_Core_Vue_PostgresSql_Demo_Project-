@@ -1,0 +1,12 @@
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\bin\Release\net5.0\CoreVuePostgreSQL.Data.deps.json
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\bin\Release\net5.0\CoreVuePostgreSQL.Data.dll
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\bin\Release\net5.0\ref\CoreVuePostgreSQL.Data.dll
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\bin\Release\net5.0\CoreVuePostgreSQL.Data.pdb
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.csprojAssemblyReference.cache
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.AssemblyInfoInputs.cache
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.AssemblyInfo.cs
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.dll
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\ref\CoreVuePostgreSQL.Data.dll
+C:\Users\dmj10\source\repos\CoreVuePostgreSQL\CoreVuePostgreSQL.Data\obj\Release\net5.0\CoreVuePostgreSQL.Data.pdb
